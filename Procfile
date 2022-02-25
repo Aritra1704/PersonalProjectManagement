@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/ppmtool-0.0.4-SNAPSHOT.jar -Dserver.port=$PORT $JAR_OPTS
+web: java $JAVA_OPTS -jar target/ppmtool-0.0.5-SNAPSHOT.jar -Dserver.port=$PORT $JAR_OPTS
